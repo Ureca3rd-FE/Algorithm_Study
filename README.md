@@ -28,7 +28,17 @@
    git push
    ```
    🌟 PR Title은 `[week01] BOJ_문제번호_본인이름`으로 통일합니다.
-5. **Merge**: 회의 직후에 한 번에 합니다.
+   <details> 
+      <summary><b> 🔽 자세한 PR 생성 과정</b></summary>
+      1. add -> commit -> push
+      <img width="800" alt="image" src="https://github.com/user-attachments/assets/daf170bb-fd0b-45eb-996a-747faf0b52e5" />
+
+      +) 아래 에러가 뜬다면, 로컬 브랜치와 원격 브랜치가 연결되지 않은 것이니, `git push -u origin 생성브랜치명` 을 해주시면 됩니다!</br>
+      `fatal: The current branch week01-joooii has no upstream branch.` 
+
+   </details>
+   
+6. **Merge**: 회의 직후에 한 번에 합니다.
 
 
 ## 📚 커리큘럼
