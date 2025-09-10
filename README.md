@@ -11,9 +11,9 @@
 
 
 ## 🗂️ 폴더 구조
-> 구조) `week주차/BOJ_문제번호/GithubID/main.js`
+> 구조) `week주차/GithubID/BOJ_문제번호/main.js`
 > 
-> 예시) `week01/BOJ_17478/joooii/main.js`
+> 예시) `week01/joooii/BOJ_17478/main.js`
 
 
 ## 📮 PR 제출 과정
