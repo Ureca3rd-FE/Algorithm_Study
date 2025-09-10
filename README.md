@@ -28,15 +28,31 @@
    git push
    ```
    🌟 PR Title은 `[week01] 본인이름`으로 통일합니다.
-   <details> 
-      <summary><b> 🔽 자세한 PR 생성 과정</b></summary>
-      1. add -> commit -> push
-      <img width="800" alt="image" src="https://github.com/user-attachments/assets/daf170bb-fd0b-45eb-996a-747faf0b52e5" />
-
-      +) 아래 에러가 뜬다면, 로컬 브랜치와 원격 브랜치가 연결되지 않은 것이니, `git push -u origin 생성브랜치명` 을 해주시면 됩니다!</br>
-      `fatal: The current branch week01-joooii has no upstream branch.` 
-
+ 
+    <details>
+     <summary><b> 🔽 자세한 PR 생성 과정</b></summary>
+   
+     <ol>
+       <li>
+         <b>add → commit → push</b>  
+         <br>
+         <img width="700" alt="image" src="https://github.com/user-attachments/assets/daf170bb-fd0b-45eb-996a-747faf0b52e5" />  
+       </li>
+        <br>
+       <li>
+         <b>PR 생성하기</b>  
+         <br>
+         <img width="600" alt="스크린샷" src="https://github.com/user-attachments/assets/9c051e44-c72f-45ad-b6bc-5d68ce0a37ad" />
+       </li>
+        <br>
+       <li>
+         <b>PR 작성 후 PR 보내기</b>  
+         <br>
+         <img width="700" alt="스크린샷" src="https://github.com/user-attachments/assets/58fbe8be-bd48-4064-a74e-ae75646bbdee" />
+       </li>
+     </ol>
    </details>
+
    
 6. **Merge**: 회의 직후에 한 번에 합니다.
 
