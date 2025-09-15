@@ -72,8 +72,10 @@
 | 이름 | GitHub |
 |-----|--------|
 | 김주희 | [joooii](https://github.com/joooii) |
-| 나원빈 | [tray0244](https://github.com/tray0244)
+| 나원빈 | [tray0244](https://github.com/tray0244) |
+| 박승연 |  |
 | 박주이 | [Zoo2-bi](https://github.com/Zoo2-bi) |
 | 박준형 | [joonhyong](https://github.com/joonhyong) |
 | 임광수 | [gs0428](https://github.com/gs0428) |
+| 채지연 |  |
 
