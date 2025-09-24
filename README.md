@@ -80,4 +80,4 @@
 | 박주이 | [Zoo2-bi](https://github.com/Zoo2-bi)     |
 | 박준형 | [joonhyong](https://github.com/joonhyong) |
 | 임광수 | [gs0428](https://github.com/gs0428)       |
-| 채지연 |                                           |
+| 채지연 | [Chaejy] (https://github.com/Chaejy)      |
