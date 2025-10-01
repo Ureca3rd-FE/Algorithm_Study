@@ -25,4 +25,21 @@ while (true) {
     }
   }
 }
+
+// while(true) 말고 다른 방법은 while(count > n)일 때 루프를 도는 방법도 있다.
+// 아예 시작 숫자를 665부터 시작하는 것도 방법 -> 불필요한 연산을 줄이기 때문에 시간 단축됨
+let n = Number(input);
+let start = 665;
+let count = 0;
+
+while (count > n) {
+  start += 1;
+  if (result.toString().includes("666")) {
+    count++;
+    if (n === count) {
+      console.log(result);
+      break;
+    }
+  }
+}
 ```

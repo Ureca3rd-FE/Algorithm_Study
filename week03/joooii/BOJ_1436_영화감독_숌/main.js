@@ -14,3 +14,19 @@ while (true) {
     }
   }
 }
+
+// 시작넘버 = 665부터 시작
+// let n = Number(input);
+// let start = 665;
+// let count = 0;
+
+// while (count > n) {
+//   start += 1;
+//   if (result.toString().includes("666")) {
+//     count++;
+//     if (n === count) {
+//       console.log(result);
+//       break;
+//     }
+//   }
+// }
