@@ -16,7 +16,6 @@ for (let i = 0; i < M; i++) {
 const visited = Array(N + 1).fill(false);
 let infected = 0;
 
-// BFS from node 1
 const queue = [1];
 let head = 0;
 visited[1] = true;
