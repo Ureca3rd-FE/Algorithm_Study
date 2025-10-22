@@ -31,7 +31,7 @@ for (let t = 0; t < T; t++) {
     for (let x = 0; x < M; x++) {
       if (field[y][x] !== 1) continue; // 배추 아니면 skip
 
-      worms++;                  // 새 덩어리 발견 → 지렁이 +1
+      worms++;                  // 새 덩어리 발견 -> 지렁이 증가
       const q = [[y, x]];       // BFS 큐
       let head = 0;
       field[y][x] = 0;          // 방문 표시 0으로 업데이트
